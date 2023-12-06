@@ -4,17 +4,17 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "55.93%",
-    "uptimeDay": "55.93%",
-    "uptimeWeek": "55.93%",
-    "uptimeMonth": "55.93%",
-    "uptimeYear": "55.93%",
-    "time": 1132,
-    "timeDay": 1132,
-    "timeWeek": 1132,
-    "timeMonth": 1132,
-    "timeYear": 1132,
+    "status": "down",
+    "uptime": "65.01%",
+    "uptimeDay": "65.01%",
+    "uptimeWeek": "65.01%",
+    "uptimeMonth": "65.01%",
+    "uptimeYear": "65.01%",
+    "time": 1106,
+    "timeDay": 1106,
+    "timeWeek": 1106,
+    "timeMonth": 1106,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2023-12-06": 43
     }
@@ -205,19 +205,17 @@
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
     "status": "up",
-    "uptime": "87.14%",
-    "uptimeDay": "87.14%",
-    "uptimeWeek": "87.14%",
-    "uptimeMonth": "87.14%",
-    "uptimeYear": "87.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 862,
     "timeDay": 862,
     "timeWeek": 862,
     "timeMonth": 862,
     "timeYear": 862,
-    "dailyMinutesDown": {
-      "2023-12-06": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DigitalCore",
@@ -333,18 +331,18 @@
     "icon": "$HDA_ICON",
     "slug": "hd-area",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 148,
     "timeDay": 148,
     "timeWeek": 148,
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-12-06": 60
+      "2023-12-06": 86
     }
   },
   {
@@ -353,18 +351,18 @@
     "icon": "$IPT_ICON",
     "slug": "ip-torrents",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 301,
     "timeDay": 301,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-12-06": 60
+      "2023-12-06": 86
     }
   },
   {
