@@ -95,6 +95,14 @@ sites:
     url: $MAM
     icon: $MAM_ICON
     maxResponseTime: 1000
+  - name: Nebulance
+    url: $NEB
+    icon: $NEB_ICON
+    maxResponseTime: 1000
+  - name: Old Toons World
+    url: $OTW
+    icon: $OTW_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
