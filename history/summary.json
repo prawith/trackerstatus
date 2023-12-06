@@ -4,18 +4,20 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 724,
-    "timeWeek": 724,
-    "timeMonth": 724,
-    "timeYear": 724,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 765,
+    "timeDay": 765,
+    "timeWeek": 765,
+    "timeMonth": 765,
+    "timeYear": 765,
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "Aither",
