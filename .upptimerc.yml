@@ -19,9 +19,29 @@ sites:
     url: $AB
     icon: $AB_ICON
     maxResponseTime: 1000
+  - name: AnimeTosho
+    url: $AT
+    icon: $AT_ICON
+    maxResponseTime: 1000
   - name: Anthelion
     url: $ANT
     icon: $ANTICON
+    maxResponseTime: 1000
+  - name: AsianCinema
+    url: $AC
+    icon: $AC_ICON
+    maxResponseTime: 1000
+  - name: BakaBT
+    url: $BBT
+    icon: $BBT_ICON
+    maxResponseTime: 1000
+  - name: BitSexy
+    url: $BS
+    icon: $BS_ICON
+    maxResponseTime: 1000
+  - name: Blutopia
+    url: $BLU
+    icon: $BLU_ICON
     maxResponseTime: 1000
 
 status-website:
