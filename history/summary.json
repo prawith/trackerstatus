@@ -4,19 +4,19 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "degraded",
-    "uptime": "59.70%",
-    "uptimeDay": "59.70%",
-    "uptimeWeek": "59.70%",
-    "uptimeMonth": "59.70%",
-    "uptimeYear": "59.70%",
-    "time": 1075,
-    "timeDay": 1075,
-    "timeWeek": 1075,
-    "timeMonth": 1075,
-    "timeYear": 1075,
+    "status": "down",
+    "uptime": "55.41%",
+    "uptimeDay": "55.41%",
+    "uptimeWeek": "55.41%",
+    "uptimeMonth": "55.41%",
+    "uptimeYear": "55.41%",
+    "time": 1063,
+    "timeDay": 1063,
+    "timeWeek": 1063,
+    "timeMonth": 1063,
+    "timeYear": 1063,
     "dailyMinutesDown": {
-      "2023-12-06": 91
+      "2023-12-06": 108
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-12-06": 188
+      "2023-12-06": 206
     }
   },
   {
@@ -351,18 +351,18 @@
     "icon": "$IPT_ICON",
     "slug": "ip-torrents",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 301,
     "timeDay": 301,
     "timeWeek": 301,
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-12-06": 188
+      "2023-12-06": 206
     }
   },
   {
