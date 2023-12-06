@@ -103,6 +103,18 @@ sites:
     url: $OTW
     icon: $OTW_ICON
     maxResponseTime: 1000
+  - name: Orpheus
+    url: $OPS
+    icon: $OPS_ICON
+    maxResponseTime: 1000
+  - name: Redacted
+    url: $RED
+    icon: $RED_ICON
+    maxResponseTime: 1000
+  - name: ReelFLiX
+    url: $RFL
+    icon: $RFL_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
