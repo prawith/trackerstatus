@@ -51,6 +51,14 @@ sites:
     url: $CRT
     icon: $CRT_ICON
     maxResponseTime: 1000
+  - name: DigitalCore
+    url: $DC
+    icon: $DC_ICON
+    maxResponseTime: 1000
+  - name: DocsPedia
+    url: $DP
+    icon: $DP_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
