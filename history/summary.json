@@ -5,11 +5,11 @@
     "icon": "$ABNICON",
     "slug": "abnormal",
     "status": "degraded",
-    "uptime": "98.56%",
-    "uptimeDay": "98.56%",
-    "uptimeWeek": "98.56%",
-    "uptimeMonth": "98.56%",
-    "uptimeYear": "98.56%",
+    "uptime": "97.83%",
+    "uptimeDay": "97.83%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "97.83%",
+    "uptimeYear": "97.83%",
     "time": 1117,
     "timeDay": 1117,
     "timeWeek": 1117,
@@ -331,18 +331,18 @@
     "icon": "$HDA_ICON",
     "slug": "hd-area",
     "status": "down",
-    "uptime": "1.57%",
-    "uptimeDay": "1.57%",
-    "uptimeWeek": "1.57%",
-    "uptimeMonth": "1.57%",
-    "uptimeYear": "1.57%",
+    "uptime": "1.30%",
+    "uptimeDay": "1.30%",
+    "uptimeWeek": "1.30%",
+    "uptimeMonth": "1.30%",
+    "uptimeYear": "1.30%",
     "time": 208,
     "timeDay": 208,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2023-12-06": 0
+      "2023-12-06": 1
     }
   },
   {
@@ -351,18 +351,18 @@
     "icon": "$IPT_ICON",
     "slug": "ip-torrents",
     "status": "down",
-    "uptime": "4.46%",
-    "uptimeDay": "4.46%",
-    "uptimeWeek": "4.46%",
-    "uptimeMonth": "4.46%",
-    "uptimeYear": "4.46%",
+    "uptime": "2.86%",
+    "uptimeDay": "2.86%",
+    "uptimeWeek": "2.86%",
+    "uptimeMonth": "2.86%",
+    "uptimeYear": "2.86%",
     "time": 299,
     "timeDay": 299,
     "timeWeek": 299,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2023-12-06": 0
+      "2023-12-06": 1
     }
   },
   {
