@@ -75,6 +75,26 @@ sites:
     url: $TGC
     icon: $TGC_ICON
     maxResponseTime: 1000
+  - name: HDArea
+    url: $HDA
+    icon: $HDA_ICON
+    maxResponseTime: 1000
+  - name: IPTorrents
+    url: $IPT
+    icon: $IPT_ICON
+    maxResponseTime: 1000
+  - name: LST
+    url: $LST
+    icon: $LST_ICON
+    maxResponseTime: 1000
+  - name: Milkie
+    url: $MLK
+    icon: $MLK_ICON
+    maxResponseTime: 1000
+  - name: MyAnonaMouse
+    url: $MAM
+    icon: $MAM_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
