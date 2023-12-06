@@ -115,6 +115,46 @@ sites:
     url: $RFL
     icon: $RFL_ICON
     maxResponseTime: 1000
+  - name: RetroFlix
+    url: $REF
+    icon: $REF_ICON
+    maxResponseTime: 1000
+  - name: Shazbat
+    url: $SHZ
+    icon: $SHZ_ICON
+    maxResponseTime: 1000
+  - name: SpeedApp
+    url: $SPD
+    icon: $SPD_ICON
+    maxResponseTime: 1000
+  - name: SpeedCD
+    url: $SCD
+    icon: $SCD_ICON
+    maxResponseTime: 1000
+  - name: TheScenePlace
+    url: $TSP
+    icon: $TSP_ICON
+    maxResponseTime: 1000
+  - name: TorrentDay
+    url: $TD
+    icon: $TD_ICON
+    maxResponseTime: 1000
+  - name: Torrentleech
+    url: $TL
+    icon: $TL_ICON
+    maxResponseTime: 1000
+  - name: TorrentSeeds
+    url: $TS
+    icon: $TS_ICON
+    maxResponseTime: 1000
+  - name: UHDBits
+    url: $UHDB
+    icon: $UHDB_ICON
+    maxResponseTime: 1000
+  - name: XtremeBytes
+    url: $XB
+    icon: $XB_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
