@@ -4,19 +4,19 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "degraded",
-    "uptime": "64.51%",
-    "uptimeDay": "64.51%",
-    "uptimeWeek": "64.51%",
-    "uptimeMonth": "64.51%",
-    "uptimeYear": "64.51%",
-    "time": 1085,
-    "timeDay": 1085,
-    "timeWeek": 1085,
-    "timeMonth": 1085,
-    "timeYear": 1085,
+    "status": "up",
+    "uptime": "58.86%",
+    "uptimeDay": "58.86%",
+    "uptimeWeek": "58.86%",
+    "uptimeMonth": "58.86%",
+    "uptimeYear": "58.86%",
+    "time": 1051,
+    "timeDay": 1051,
+    "timeWeek": 1051,
+    "timeMonth": 1051,
+    "timeYear": 1051,
     "dailyMinutesDown": {
-      "2023-12-06": 63
+      "2023-12-06": 81
     }
   },
   {
@@ -342,7 +342,7 @@
     "timeMonth": 148,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-12-06": 142
+      "2023-12-06": 159
     }
   },
   {
@@ -362,7 +362,7 @@
     "timeMonth": 301,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-12-06": 142
+      "2023-12-06": 159
     }
   },
   {
