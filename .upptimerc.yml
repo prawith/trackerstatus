@@ -59,6 +59,22 @@ sites:
     url: $DP
     icon: $DP_ICON
     maxResponseTime: 1000
+  - name: FearNoPeer
+    url: $FNP
+    icon: $FNP_ICON
+    maxResponseTime: 1000
+  - name: FileList
+    url: $FL
+    icon: $FL_ICON
+    maxResponseTime: 1000
+  - name: GazelleGames
+    url: $GGN
+    icon: $GGN_ICON
+    maxResponseTime: 1000
+  - name: The Geeks
+    url: $TGC
+    icon: $TGC_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -67,8 +83,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Tracker Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page for several private trackers.
+  introTitle: "This is a status page for several private trackers."
+  introMessage: "If you would like a tracker added/removed please send an email to fluff663@pm.me"
   navbar:
     - title: Status
       href: /
