@@ -43,6 +43,14 @@ sites:
     url: $BLU
     icon: $BLU_ICON
     maxResponseTime: 1000
+  - name: CGPeers
+    url: $CGP
+    icon: $CGP_ICON
+    maxResponseTime: 1000
+  - name: CathodeRay-Tube
+    url: $CRT
+    icon: $CRT_ICON
+    maxResponseTime: 1000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
