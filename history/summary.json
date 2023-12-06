@@ -5,19 +5,17 @@
     "icon": "$ANTICON",
     "slug": "anthelion",
     "status": "up",
-    "uptime": "1.71%",
-    "uptimeDay": "1.71%",
-    "uptimeWeek": "1.71%",
-    "uptimeMonth": "1.71%",
-    "uptimeYear": "1.71%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 641,
     "timeDay": 641,
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {
-      "2023-12-06": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikipedia",
