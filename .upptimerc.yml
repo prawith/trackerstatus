@@ -11,6 +11,10 @@ sites:
     url: $AIT
     icon: $AITICON
     maxResponseTime: 1000
+  - name: AlphaRatio
+    url: $AR
+    icon: $AR_ICON
+    maxResponseTime: 1000
   - name: Anthelion
     url: $ANT
     icon: $ANTICON
