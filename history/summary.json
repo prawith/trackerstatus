@@ -5,18 +5,18 @@
     "icon": "$ABNICON",
     "slug": "abnormal",
     "status": "up",
-    "uptime": "52.73%",
-    "uptimeDay": "52.73%",
-    "uptimeWeek": "52.73%",
-    "uptimeMonth": "52.73%",
-    "uptimeYear": "52.73%",
+    "uptime": "54.15%",
+    "uptimeDay": "54.15%",
+    "uptimeWeek": "54.15%",
+    "uptimeMonth": "54.15%",
+    "uptimeYear": "54.15%",
     "time": 943,
     "timeDay": 943,
     "timeWeek": 943,
     "timeMonth": 943,
     "timeYear": 943,
     "dailyMinutesDown": {
-      "2023-12-07": 327,
+      "2023-12-07": 317,
       "2023-12-06": 138
     }
   },
@@ -115,19 +115,19 @@
     "url": "$AC",
     "icon": "$AC_ICON",
     "slug": "asian-cinema",
-    "status": "degraded",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 1657,
-    "timeDay": 1657,
-    "timeWeek": 1657,
-    "timeMonth": 1657,
-    "timeYear": 1657,
+    "status": "up",
+    "uptime": "99.02%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.02%",
+    "uptimeMonth": "99.02%",
+    "uptimeYear": "99.02%",
+    "time": 1595,
+    "timeDay": 1595,
+    "timeWeek": 1595,
+    "timeMonth": 1595,
+    "timeYear": 1595,
     "dailyMinutesDown": {
-      "2023-12-07": 1
+      "2023-12-07": 10
     }
   },
   {
@@ -208,18 +208,18 @@
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
     "status": "up",
-    "uptime": "97.24%",
-    "uptimeDay": "97.24%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "97.24%",
-    "uptimeYear": "97.24%",
+    "uptime": "98.25%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "98.25%",
+    "uptimeMonth": "98.25%",
+    "uptimeYear": "98.25%",
     "time": 2334,
     "timeDay": 2334,
     "timeWeek": 2334,
     "timeMonth": 2334,
     "timeYear": 2334,
     "dailyMinutesDown": {
-      "2023-12-07": 27
+      "2023-12-07": 17
     }
   },
   {
@@ -347,7 +347,7 @@
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-12-07": 697,
+      "2023-12-07": 706,
       "2023-12-06": 252
     }
   },
@@ -368,7 +368,7 @@
     "timeMonth": 902,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2023-12-07": 697,
+      "2023-12-07": 706,
       "2023-12-06": 252
     }
   },
@@ -587,7 +587,7 @@
     "timeMonth": 1169,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-12-07": 697,
+      "2023-12-07": 706,
       "2023-12-06": 45
     }
   },
@@ -597,18 +597,18 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "down",
-    "uptime": "53.23%",
-    "uptimeDay": "53.23%",
-    "uptimeWeek": "53.23%",
-    "uptimeMonth": "53.23%",
-    "uptimeYear": "53.23%",
+    "uptime": "52.56%",
+    "uptimeDay": "52.56%",
+    "uptimeWeek": "52.56%",
+    "uptimeMonth": "52.56%",
+    "uptimeYear": "52.56%",
     "time": 508,
     "timeDay": 508,
     "timeWeek": 508,
     "timeMonth": 508,
     "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-12-07": 333,
+      "2023-12-07": 343,
       "2023-12-06": 14
     }
   },
