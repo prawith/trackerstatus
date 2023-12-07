@@ -4,19 +4,19 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "down",
-    "uptime": "54.58%",
-    "uptimeDay": "54.58%",
-    "uptimeWeek": "54.58%",
-    "uptimeMonth": "54.58%",
-    "uptimeYear": "54.58%",
-    "time": 920,
-    "timeDay": 920,
-    "timeWeek": 920,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "status": "up",
+    "uptime": "54.14%",
+    "uptimeDay": "54.14%",
+    "uptimeWeek": "54.14%",
+    "uptimeMonth": "54.14%",
+    "uptimeYear": "54.14%",
+    "time": 919,
+    "timeDay": 919,
+    "timeWeek": 919,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {
-      "2023-12-07": 364,
+      "2023-12-07": 374,
       "2023-12-06": 138
     }
   },
@@ -206,11 +206,11 @@
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
     "status": "up",
-    "uptime": "96.52%",
-    "uptimeDay": "96.52%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "96.52%",
-    "uptimeYear": "96.52%",
+    "uptime": "96.56%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "96.56%",
+    "uptimeMonth": "96.56%",
+    "uptimeYear": "96.56%",
     "time": 2229,
     "timeDay": 2229,
     "timeWeek": 2229,
@@ -345,7 +345,7 @@
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-12-07": 820,
+      "2023-12-07": 830,
       "2023-12-06": 252
     }
   },
@@ -366,7 +366,7 @@
     "timeMonth": 902,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2023-12-07": 820,
+      "2023-12-07": 830,
       "2023-12-06": 252
     }
   },
@@ -585,7 +585,7 @@
     "timeMonth": 1169,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-12-07": 820,
+      "2023-12-07": 830,
       "2023-12-06": 45
     }
   },
@@ -595,11 +595,11 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "up",
-    "uptime": "48.93%",
-    "uptimeDay": "48.93%",
-    "uptimeWeek": "48.93%",
-    "uptimeMonth": "48.93%",
-    "uptimeYear": "48.93%",
+    "uptime": "49.50%",
+    "uptimeDay": "49.50%",
+    "uptimeWeek": "49.50%",
+    "uptimeMonth": "49.50%",
+    "uptimeYear": "49.50%",
     "time": 509,
     "timeDay": 509,
     "timeWeek": 509,
