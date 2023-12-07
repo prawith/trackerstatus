@@ -4,19 +4,19 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "degraded",
-    "uptime": "54.15%",
-    "uptimeDay": "54.15%",
-    "uptimeWeek": "54.15%",
-    "uptimeMonth": "54.15%",
-    "uptimeYear": "54.15%",
-    "time": 931,
-    "timeDay": 931,
-    "timeWeek": 931,
-    "timeMonth": 931,
-    "timeYear": 931,
+    "status": "up",
+    "uptime": "53.36%",
+    "uptimeDay": "53.36%",
+    "uptimeWeek": "53.36%",
+    "uptimeMonth": "53.36%",
+    "uptimeYear": "53.36%",
+    "time": 923,
+    "timeDay": 923,
+    "timeWeek": 923,
+    "timeMonth": 923,
+    "timeYear": 923,
     "dailyMinutesDown": {
-      "2023-12-07": 347,
+      "2023-12-07": 364,
       "2023-12-06": 138
     }
   },
@@ -205,19 +205,19 @@
     "url": "$CRT",
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "98.36%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.34%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "98.34%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "98.34%",
     "time": 2334,
     "timeDay": 2334,
     "timeWeek": 2334,
     "timeMonth": 2334,
     "timeYear": 2334,
     "dailyMinutesDown": {
-      "2023-12-07": 17
+      "2023-12-07": 18
     }
   },
   {
@@ -345,7 +345,7 @@
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-12-07": 771,
+      "2023-12-07": 790,
       "2023-12-06": 252
     }
   },
@@ -366,7 +366,7 @@
     "timeMonth": 902,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2023-12-07": 771,
+      "2023-12-07": 790,
       "2023-12-06": 252
     }
   },
@@ -585,7 +585,7 @@
     "timeMonth": 1169,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-12-07": 771,
+      "2023-12-07": 790,
       "2023-12-06": 45
     }
   },
@@ -594,17 +594,17 @@
     "url": "$TSP",
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
-    "status": "up",
-    "uptime": "48.42%",
-    "uptimeDay": "48.42%",
-    "uptimeWeek": "48.42%",
-    "uptimeMonth": "48.42%",
-    "uptimeYear": "48.42%",
-    "time": 512,
-    "timeDay": 512,
-    "timeWeek": 512,
-    "timeMonth": 512,
-    "timeYear": 512,
+    "status": "down",
+    "uptime": "49.54%",
+    "uptimeDay": "49.54%",
+    "uptimeWeek": "49.54%",
+    "uptimeMonth": "49.54%",
+    "uptimeYear": "49.54%",
+    "time": 507,
+    "timeDay": 507,
+    "timeWeek": 507,
+    "timeMonth": 507,
+    "timeYear": 507,
     "dailyMinutesDown": {
       "2023-12-07": 407,
       "2023-12-06": 14
