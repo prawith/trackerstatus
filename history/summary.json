@@ -5,18 +5,18 @@
     "icon": "$ABNICON",
     "slug": "abnormal",
     "status": "down",
-    "uptime": "48.49%",
-    "uptimeDay": "48.49%",
-    "uptimeWeek": "48.49%",
-    "uptimeMonth": "48.49%",
-    "uptimeYear": "48.49%",
+    "uptime": "47.80%",
+    "uptimeDay": "47.80%",
+    "uptimeWeek": "47.80%",
+    "uptimeMonth": "47.80%",
+    "uptimeYear": "47.80%",
     "time": 970,
     "timeDay": 970,
     "timeWeek": 970,
     "timeMonth": 970,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2023-12-07": 294,
+      "2023-12-07": 307,
       "2023-12-06": 138
     }
   },
@@ -133,18 +133,20 @@
     "url": "$BBT",
     "icon": "$BBT_ICON",
     "slug": "baka-bt",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 926,
-    "timeWeek": 926,
-    "timeMonth": 926,
-    "timeYear": 926,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.94%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 1645,
+    "timeDay": 1645,
+    "timeWeek": 1645,
+    "timeMonth": 1645,
+    "timeYear": 1645,
+    "dailyMinutesDown": {
+      "2023-12-07": 1
+    }
   },
   {
     "name": "BitSexy",
@@ -206,11 +208,11 @@
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
     "status": "up",
-    "uptime": "97.92%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "97.92%",
-    "uptimeMonth": "97.92%",
-    "uptimeYear": "97.92%",
+    "uptime": "97.95%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "97.95%",
+    "uptimeMonth": "97.95%",
+    "uptimeYear": "97.95%",
     "time": 2098,
     "timeDay": 2098,
     "timeWeek": 2098,
@@ -345,7 +347,7 @@
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-12-07": 553,
+      "2023-12-07": 565,
       "2023-12-06": 252
     }
   },
@@ -366,7 +368,7 @@
     "timeMonth": 902,
     "timeYear": 902,
     "dailyMinutesDown": {
-      "2023-12-07": 553,
+      "2023-12-07": 565,
       "2023-12-06": 252
     }
   },
@@ -585,7 +587,7 @@
     "timeMonth": 1169,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-12-07": 553,
+      "2023-12-07": 566,
       "2023-12-06": 45
     }
   },
@@ -594,17 +596,17 @@
     "url": "$TSP",
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
-    "status": "up",
-    "uptime": "51.87%",
-    "uptimeDay": "51.87%",
-    "uptimeWeek": "51.87%",
-    "uptimeMonth": "51.87%",
-    "uptimeYear": "51.87%",
-    "time": 526,
-    "timeDay": 526,
-    "timeWeek": 526,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "down",
+    "uptime": "52.78%",
+    "uptimeDay": "52.78%",
+    "uptimeWeek": "52.78%",
+    "uptimeMonth": "52.78%",
+    "uptimeYear": "52.78%",
+    "time": 521,
+    "timeDay": 521,
+    "timeWeek": 521,
+    "timeMonth": 521,
+    "timeYear": 521,
     "dailyMinutesDown": {
       "2023-12-07": 274,
       "2023-12-06": 14
