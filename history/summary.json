@@ -4,19 +4,19 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "degraded",
-    "uptime": "53.17%",
-    "uptimeDay": "52.47%",
-    "uptimeWeek": "53.17%",
-    "uptimeMonth": "53.17%",
-    "uptimeYear": "53.17%",
-    "time": 889,
-    "timeDay": 895,
-    "timeWeek": 889,
-    "timeMonth": 889,
-    "timeYear": 889,
+    "status": "up",
+    "uptime": "53.02%",
+    "uptimeDay": "52.29%",
+    "uptimeWeek": "53.02%",
+    "uptimeMonth": "53.02%",
+    "uptimeYear": "53.02%",
+    "time": 887,
+    "timeDay": 870,
+    "timeWeek": 887,
+    "timeMonth": 887,
+    "timeYear": 887,
     "dailyMinutesDown": {
-      "2023-12-08": 597,
+      "2023-12-08": 606,
       "2023-12-07": 683,
       "2023-12-06": 138
     }
@@ -208,17 +208,17 @@
     "url": "$CRT",
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
-    "status": "up",
-    "uptime": "92.92%",
-    "uptimeDay": "87.83%",
-    "uptimeWeek": "92.92%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "92.92%",
-    "time": 2810,
-    "timeDay": 3175,
-    "timeWeek": 2810,
-    "timeMonth": 2810,
-    "timeYear": 2810,
+    "status": "degraded",
+    "uptime": "92.93%",
+    "uptimeDay": "87.80%",
+    "uptimeWeek": "92.93%",
+    "uptimeMonth": "92.93%",
+    "uptimeYear": "92.93%",
+    "time": 2834,
+    "timeDay": 3206,
+    "timeWeek": 2834,
+    "timeMonth": 2834,
+    "timeYear": 2834,
     "dailyMinutesDown": {
       "2023-12-08": 130,
       "2023-12-07": 83
@@ -266,18 +266,18 @@
     "icon": "$FNP_ICON",
     "slug": "fear-no-peer",
     "status": "down",
-    "uptime": "92.46%",
-    "uptimeDay": "84.30%",
-    "uptimeWeek": "92.46%",
-    "uptimeMonth": "92.46%",
-    "uptimeYear": "92.46%",
+    "uptime": "92.15%",
+    "uptimeDay": "83.59%",
+    "uptimeWeek": "92.15%",
+    "uptimeMonth": "92.15%",
+    "uptimeYear": "92.15%",
     "time": 729,
     "timeDay": 815,
     "timeWeek": 729,
     "timeMonth": 729,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2023-12-08": 226
+      "2023-12-08": 236
     }
   },
   {
@@ -351,7 +351,7 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-12-08": 1302,
+      "2023-12-08": 1312,
       "2023-12-07": 1440,
       "2023-12-06": 252
     }
@@ -373,7 +373,7 @@
     "timeMonth": 930,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2023-12-08": 1302,
+      "2023-12-08": 1312,
       "2023-12-07": 1440,
       "2023-12-06": 252
     }
@@ -593,7 +593,7 @@
     "timeMonth": 1328,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2023-12-08": 1302,
+      "2023-12-08": 1312,
       "2023-12-07": 1440,
       "2023-12-06": 45
     }
@@ -604,18 +604,18 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "down",
-    "uptime": "49.32%",
-    "uptimeDay": "47.72%",
-    "uptimeWeek": "49.32%",
-    "uptimeMonth": "49.32%",
-    "uptimeYear": "49.32%",
+    "uptime": "49.14%",
+    "uptimeDay": "47.02%",
+    "uptimeWeek": "49.14%",
+    "uptimeMonth": "49.14%",
+    "uptimeYear": "49.14%",
     "time": 502,
     "timeDay": 494,
     "timeWeek": 502,
     "timeMonth": 502,
     "timeYear": 502,
     "dailyMinutesDown": {
-      "2023-12-08": 698,
+      "2023-12-08": 709,
       "2023-12-07": 700,
       "2023-12-06": 14
     }
@@ -698,11 +698,11 @@
     "icon": "$XB_ICON",
     "slug": "xtreme-bytes",
     "status": "up",
-    "uptime": "97.93%",
+    "uptime": "97.94%",
     "uptimeDay": "96.00%",
-    "uptimeWeek": "97.93%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "97.93%",
+    "uptimeWeek": "97.94%",
+    "uptimeMonth": "97.94%",
+    "uptimeYear": "97.94%",
     "time": 566,
     "timeDay": 737,
     "timeWeek": 566,
