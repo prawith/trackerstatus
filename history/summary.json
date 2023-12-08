@@ -5,18 +5,19 @@
     "icon": "$ABNICON",
     "slug": "abnormal",
     "status": "degraded",
-    "uptime": "52.55%",
+    "uptime": "51.29%",
     "uptimeDay": "52.57%",
-    "uptimeWeek": "52.55%",
-    "uptimeMonth": "52.55%",
-    "uptimeYear": "52.55%",
+    "uptimeWeek": "51.29%",
+    "uptimeMonth": "51.29%",
+    "uptimeYear": "51.29%",
     "time": 916,
     "timeDay": 876,
     "timeWeek": 916,
     "timeMonth": 916,
     "timeYear": 916,
     "dailyMinutesDown": {
-      "2023-12-07": 680,
+      "2023-12-08": 40,
+      "2023-12-07": 683,
       "2023-12-06": 138
     }
   },
@@ -188,11 +189,11 @@
     "icon": "$CGP_ICON",
     "slug": "cg-peers",
     "status": "up",
-    "uptime": "98.34%",
+    "uptime": "98.38%",
     "uptimeDay": "98.04%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "98.38%",
     "time": 469,
     "timeDay": 152,
     "timeWeek": 469,
@@ -208,11 +209,11 @@
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
     "status": "up",
-    "uptime": "95.12%",
+    "uptime": "95.23%",
     "uptimeDay": "94.22%",
-    "uptimeWeek": "95.12%",
-    "uptimeMonth": "95.12%",
-    "uptimeYear": "95.12%",
+    "uptimeWeek": "95.23%",
+    "uptimeMonth": "95.23%",
+    "uptimeYear": "95.23%",
     "time": 2436,
     "timeDay": 3304,
     "timeWeek": 2436,
@@ -347,7 +348,8 @@
     "timeMonth": 137,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2023-12-07": 1437,
+      "2023-12-08": 40,
+      "2023-12-07": 1440,
       "2023-12-06": 252
     }
   },
@@ -368,7 +370,8 @@
     "timeMonth": 930,
     "timeYear": 930,
     "dailyMinutesDown": {
-      "2023-12-07": 1437,
+      "2023-12-08": 40,
+      "2023-12-07": 1440,
       "2023-12-06": 252
     }
   },
@@ -587,7 +590,8 @@
     "timeMonth": 1328,
     "timeYear": 1328,
     "dailyMinutesDown": {
-      "2023-12-07": 1437,
+      "2023-12-08": 40,
+      "2023-12-07": 1440,
       "2023-12-06": 45
     }
   },
@@ -597,18 +601,19 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "down",
-    "uptime": "51.98%",
+    "uptime": "50.53%",
     "uptimeDay": "51.37%",
-    "uptimeWeek": "51.98%",
-    "uptimeMonth": "51.98%",
-    "uptimeYear": "51.98%",
+    "uptimeWeek": "50.53%",
+    "uptimeMonth": "50.53%",
+    "uptimeYear": "50.53%",
     "time": 516,
     "timeDay": 512,
     "timeWeek": 516,
     "timeMonth": 516,
     "timeYear": 516,
     "dailyMinutesDown": {
-      "2023-12-07": 697,
+      "2023-12-08": 40,
+      "2023-12-07": 700,
       "2023-12-06": 14
     }
   },
