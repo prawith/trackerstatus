@@ -1,7 +1,7 @@
 url: $RED
-status: down
-code: 502
-responseTime: 547
-lastUpdated: 2023-12-17T20:42:50.458Z
+status: up
+code: 200
+responseTime: 357
+lastUpdated: 2023-12-17T20:52:27.514Z
 startTime: 2023-12-06T19:55:29.292Z
 generator: Upptime <https://github.com/upptime/upptime>
