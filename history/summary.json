@@ -5,14 +5,14 @@
     "icon": "$ABNICON",
     "slug": "abnormal",
     "status": "up",
-    "uptime": "84.15%",
+    "uptime": "84.16%",
     "uptimeDay": "63.08%",
     "uptimeWeek": "60.07%",
-    "uptimeMonth": "84.15%",
-    "uptimeYear": "84.15%",
+    "uptimeMonth": "84.16%",
+    "uptimeYear": "84.16%",
     "time": 866,
     "timeDay": 841,
-    "timeWeek": 839,
+    "timeWeek": 840,
     "timeMonth": 866,
     "timeYear": 866,
     "dailyMinutesDown": {
@@ -286,18 +286,18 @@
     "icon": "$DP_ICON",
     "slug": "docs-pedia",
     "status": "down",
-    "uptime": "98.94%",
-    "uptimeDay": "81.26%",
-    "uptimeWeek": "97.32%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "98.94%",
+    "uptime": "98.90%",
+    "uptimeDay": "80.61%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 537,
     "timeDay": 556,
     "timeWeek": 567,
     "timeMonth": 537,
     "timeYear": 537,
     "dailyMinutesDown": {
-      "2023-12-24": 270
+      "2023-12-24": 279
     }
   },
   {
@@ -394,7 +394,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2023-12-24": 628,
+      "2023-12-24": 638,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -432,7 +432,7 @@
     "timeMonth": 1308,
     "timeYear": 1308,
     "dailyMinutesDown": {
-      "2023-12-24": 628,
+      "2023-12-24": 638,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -676,7 +676,7 @@
     "timeMonth": 918,
     "timeYear": 918,
     "dailyMinutesDown": {
-      "2023-12-24": 628,
+      "2023-12-24": 638,
       "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
@@ -702,12 +702,12 @@
     "url": "$TSP",
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
-    "status": "up",
-    "uptime": "86.74%",
-    "uptimeDay": "61.06%",
-    "uptimeWeek": "66.90%",
-    "uptimeMonth": "86.74%",
-    "uptimeYear": "86.74%",
+    "status": "down",
+    "uptime": "86.88%",
+    "uptimeDay": "61.68%",
+    "uptimeWeek": "67.26%",
+    "uptimeMonth": "86.88%",
+    "uptimeYear": "86.88%",
     "time": 481,
     "timeDay": 481,
     "timeWeek": 492,
@@ -720,7 +720,7 @@
       "2023-12-21": 737,
       "2023-12-20": 610,
       "2023-12-19": 501,
-      "2023-12-18": 115
+      "2023-12-18": 79
     }
   },
   {
