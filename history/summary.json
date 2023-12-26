@@ -4,14 +4,14 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "87.26%",
-    "uptimeDay": "69.51%",
-    "uptimeWeek": "64.41%",
-    "uptimeMonth": "87.26%",
-    "uptimeYear": "87.26%",
+    "status": "down",
+    "uptime": "87.34%",
+    "uptimeDay": "69.63%",
+    "uptimeWeek": "64.63%",
+    "uptimeMonth": "87.34%",
+    "uptimeYear": "87.34%",
     "time": 867,
-    "timeDay": 900,
+    "timeDay": 898,
     "timeWeek": 862,
     "timeMonth": 867,
     "timeYear": 867,
@@ -22,7 +22,7 @@
       "2023-12-23": 588,
       "2023-12-22": 587,
       "2023-12-21": 757,
-      "2023-12-20": 451
+      "2023-12-20": 429
     }
   },
   {
@@ -289,7 +289,7 @@
     "slug": "docs-pedia",
     "status": "up",
     "uptime": "89.87%",
-    "uptimeDay": "12.64%",
+    "uptimeDay": "13.27%",
     "uptimeWeek": "71.72%",
     "uptimeMonth": "89.87%",
     "uptimeYear": "89.87%",
@@ -398,7 +398,7 @@
     "timeMonth": 218,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2023-12-26": 511,
+      "2023-12-26": 520,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -438,7 +438,7 @@
     "timeMonth": 1355,
     "timeYear": 1355,
     "dailyMinutesDown": {
-      "2023-12-26": 511,
+      "2023-12-26": 520,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -684,7 +684,7 @@
     "timeMonth": 907,
     "timeYear": 907,
     "dailyMinutesDown": {
-      "2023-12-26": 511,
+      "2023-12-26": 520,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
       "2023-12-23": 1440,
@@ -713,24 +713,24 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "up",
-    "uptime": "87.72%",
-    "uptimeDay": "58.43%",
-    "uptimeWeek": "66.00%",
-    "uptimeMonth": "87.72%",
-    "uptimeYear": "87.72%",
+    "uptime": "87.44%",
+    "uptimeDay": "59.93%",
+    "uptimeWeek": "65.20%",
+    "uptimeMonth": "87.44%",
+    "uptimeYear": "87.44%",
     "time": 485,
     "timeDay": 547,
     "timeWeek": 497,
     "timeMonth": 485,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2023-12-26": 211,
+      "2023-12-26": 198,
       "2023-12-25": 630,
       "2023-12-24": 384,
       "2023-12-23": 738,
       "2023-12-22": 439,
       "2023-12-21": 737,
-      "2023-12-20": 289
+      "2023-12-20": 382
     }
   },
   {
