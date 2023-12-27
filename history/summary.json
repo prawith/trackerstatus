@@ -4,15 +4,15 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "85.95%",
-    "uptimeDay": "25.64%",
-    "uptimeWeek": "57.89%",
-    "uptimeMonth": "85.95%",
-    "uptimeYear": "85.95%",
+    "status": "degraded",
+    "uptime": "86.08%",
+    "uptimeDay": "26.26%",
+    "uptimeWeek": "58.25%",
+    "uptimeMonth": "86.08%",
+    "uptimeYear": "86.08%",
     "time": 869,
-    "timeDay": 926,
-    "timeWeek": 870,
+    "timeDay": 925,
+    "timeWeek": 871,
     "timeMonth": 869,
     "timeYear": 869,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2023-12-24": 508,
       "2023-12-23": 588,
       "2023-12-22": 587,
-      "2023-12-21": 528
+      "2023-12-21": 491
     }
   },
   {
@@ -405,7 +405,7 @@
     "timeMonth": 213,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2023-12-27": 1127,
+      "2023-12-27": 1136,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -446,7 +446,7 @@
     "timeMonth": 1346,
     "timeYear": 1346,
     "dailyMinutesDown": {
-      "2023-12-27": 1127,
+      "2023-12-27": 1136,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -693,7 +693,7 @@
     "timeMonth": 898,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2023-12-27": 1127,
+      "2023-12-27": 1136,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -723,24 +723,24 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "up",
-    "uptime": "88.53%",
-    "uptimeDay": "53.97%",
-    "uptimeWeek": "65.90%",
-    "uptimeMonth": "88.53%",
-    "uptimeYear": "88.53%",
+    "uptime": "88.52%",
+    "uptimeDay": "55.08%",
+    "uptimeWeek": "65.84%",
+    "uptimeMonth": "88.52%",
+    "uptimeYear": "88.52%",
     "time": 487,
-    "timeDay": 533,
+    "timeDay": 535,
     "timeWeek": 500,
     "timeMonth": 487,
     "timeYear": 487,
     "dailyMinutesDown": {
-      "2023-12-27": 548,
+      "2023-12-27": 538,
       "2023-12-26": 520,
       "2023-12-25": 630,
       "2023-12-24": 384,
       "2023-12-23": 738,
       "2023-12-22": 439,
-      "2023-12-21": 179
+      "2023-12-21": 195
     }
   },
   {
