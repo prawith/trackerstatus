@@ -1,7 +1,7 @@
 url: $AB
-status: degraded
+status: up
 code: 200
-responseTime: 1901
-lastUpdated: 2023-12-27T11:52:02.983Z
+responseTime: 185
+lastUpdated: 2023-12-27T12:11:52.464Z
 startTime: 2023-12-06T19:16:12.461Z
 generator: Upptime <https://github.com/upptime/upptime>
