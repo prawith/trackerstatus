@@ -1,7 +1,7 @@
 url: $TD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-04T00:01:09.602Z
+status: up
+code: 200
+responseTime: 480
+lastUpdated: 2024-01-04T01:22:28.031Z
 startTime: 2023-12-06T23:14:54.404Z
 generator: Upptime <https://github.com/upptime/upptime>
