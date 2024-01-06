@@ -1,7 +1,7 @@
 url: $MLK
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-06T13:38:41.842Z
+status: up
+code: 200
+responseTime: 412
+lastUpdated: 2024-01-06T13:46:39.600Z
 startTime: 2023-12-06T19:48:13.600Z
 generator: Upptime <https://github.com/upptime/upptime>
