@@ -1,7 +1,7 @@
 url: $FNP
-status: degraded
+status: up
 code: 200
-responseTime: 8226
-lastUpdated: 2024-01-08T20:16:24.709Z
+responseTime: 466
+lastUpdated: 2024-01-08T20:27:19.340Z
 startTime: 2023-12-06T19:41:57.082Z
 generator: Upptime <https://github.com/upptime/upptime>
