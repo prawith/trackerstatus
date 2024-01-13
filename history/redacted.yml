@@ -1,7 +1,7 @@
 url: $RED
-status: up
+status: degraded
 code: 200
-responseTime: 651
-lastUpdated: 2024-01-12T16:18:53.276Z
+responseTime: 2665
+lastUpdated: 2024-01-13T17:59:15.652Z
 startTime: 2023-12-06T19:55:29.292Z
 generator: Upptime <https://github.com/upptime/upptime>
