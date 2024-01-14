@@ -1,7 +1,7 @@
 url: $MAM
-status: down
-code: 500
-responseTime: 481
-lastUpdated: 2024-01-14T09:17:36.480Z
+status: up
+code: 200
+responseTime: 471
+lastUpdated: 2024-01-14T09:27:16.871Z
 startTime: 2023-12-06T19:48:14.714Z
 generator: Upptime <https://github.com/upptime/upptime>
