@@ -1,7 +1,7 @@
 url: $RFL
-status: down
-code: 503
-responseTime: 512
-lastUpdated: 2024-01-27T03:09:55.492Z
+status: up
+code: 200
+responseTime: 409
+lastUpdated: 2024-01-27T03:22:00.266Z
 startTime: 2023-12-06T19:55:29.958Z
 generator: Upptime <https://github.com/upptime/upptime>
