@@ -1,7 +1,7 @@
 url: $RED
-status: degraded
+status: down
 code: 503
-responseTime: 8619
-lastUpdated: 2024-02-01T20:23:34.049Z
+responseTime: 612
+lastUpdated: 2024-02-01T20:43:26.063Z
 startTime: 2023-12-06T19:55:29.292Z
 generator: Upptime <https://github.com/upptime/upptime>
