@@ -1,7 +1,7 @@
 url: $CRT
-status: degraded
+status: up
 code: 200
-responseTime: 4811
-lastUpdated: 2024-02-05T12:58:08.135Z
+responseTime: 293
+lastUpdated: 2024-02-05T13:16:31.669Z
 startTime: 2023-12-06T19:33:29.948Z
 generator: Upptime <https://github.com/upptime/upptime>
