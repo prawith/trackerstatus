@@ -1,7 +1,7 @@
 url: $OTW
-status: up
-code: 200
-responseTime: 368
-lastUpdated: 2024-02-06T23:17:34.306Z
+status: down
+code: 403
+responseTime: 455
+lastUpdated: 2024-02-07T20:17:34.185Z
 startTime: 2023-12-06T19:51:20.987Z
 generator: Upptime <https://github.com/upptime/upptime>
