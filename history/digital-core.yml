@@ -1,7 +1,7 @@
 url: $DC
-status: degraded
+status: up
 code: 200
-responseTime: 1739
-lastUpdated: 2024-02-08T10:48:11.949Z
+responseTime: 594
+lastUpdated: 2024-02-08T10:57:26.889Z
 startTime: 2023-12-06T19:35:57.863Z
 generator: Upptime <https://github.com/upptime/upptime>
