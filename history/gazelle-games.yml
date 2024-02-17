@@ -1,7 +1,7 @@
 url: $GGN
-status: up
+status: degraded
 code: 200
-responseTime: 582
-lastUpdated: 2024-02-17T00:26:08.663Z
+responseTime: 4890
+lastUpdated: 2024-02-17T10:17:17.697Z
 startTime: 2023-12-06T19:41:59.635Z
 generator: Upptime <https://github.com/upptime/upptime>
