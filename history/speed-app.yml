@@ -1,7 +1,7 @@
 url: $SPD
-status: up
-code: 200
-responseTime: 299
-lastUpdated: 2024-02-19T23:17:02.561Z
+status: down
+code: 502
+responseTime: 491
+lastUpdated: 2024-02-20T05:00:46.043Z
 startTime: 2023-12-06T23:14:48.070Z
 generator: Upptime <https://github.com/upptime/upptime>
