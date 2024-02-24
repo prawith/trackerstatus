@@ -1,7 +1,7 @@
 url: $TSP
-status: down
-code: 404
-responseTime: 294
-lastUpdated: 2024-02-24T03:29:32.690Z
+status: up
+code: 200
+responseTime: 428
+lastUpdated: 2024-02-24T03:39:15.248Z
 startTime: 2023-12-06T23:14:51.667Z
 generator: Upptime <https://github.com/upptime/upptime>
