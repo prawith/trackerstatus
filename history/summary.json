@@ -4,16 +4,16 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "97.16%",
-    "uptimeDay": "64.45%",
-    "uptimeWeek": "62.02%",
-    "uptimeMonth": "91.26%",
-    "uptimeYear": "97.16%",
+    "status": "down",
+    "uptime": "97.24%",
+    "uptimeDay": "65.11%",
+    "uptimeWeek": "63.04%",
+    "uptimeMonth": "91.50%",
+    "uptimeYear": "97.24%",
     "time": 896,
-    "timeDay": 1101,
+    "timeDay": 1095,
     "timeWeek": 879,
-    "timeMonth": 900,
+    "timeMonth": 899,
     "timeYear": 896,
     "dailyMinutesDown": {
       "2024-03-09": 310,
@@ -22,8 +22,7 @@
       "2024-03-06": 589,
       "2024-03-05": 697,
       "2024-03-04": 625,
-      "2024-03-03": 513,
-      "2024-03-02": 9
+      "2024-03-03": 418
     }
   },
   {
@@ -273,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-03-09": 698,
+      "2024-03-09": 708,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -635,7 +634,7 @@
     "timeMonth": 438,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-03-09": 699,
+      "2024-03-09": 709,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -749,7 +748,7 @@
     "timeMonth": 1101,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-03-09": 699,
+      "2024-03-09": 709,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -1007,7 +1006,7 @@
     "uptime": "83.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "56.43%",
+    "uptimeMonth": "56.41%",
     "uptimeYear": "83.98%",
     "time": 1820,
     "timeDay": 367,
@@ -1015,7 +1014,7 @@
     "timeMonth": 1557,
     "timeYear": 1820,
     "dailyMinutesDown": {
-      "2024-03-09": 699,
+      "2024-03-09": 709,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -1142,7 +1141,7 @@
     "timeMonth": 1311,
     "timeYear": 1011,
     "dailyMinutesDown": {
-      "2024-03-09": 699,
+      "2024-03-09": 709,
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
@@ -1246,7 +1245,7 @@
     "slug": "the-scene-place",
     "status": "up",
     "uptime": "97.32%",
-    "uptimeDay": "51.88%",
+    "uptimeDay": "52.56%",
     "uptimeWeek": "64.25%",
     "uptimeMonth": "91.77%",
     "uptimeYear": "97.32%",
