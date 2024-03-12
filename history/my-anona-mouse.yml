@@ -1,7 +1,7 @@
 url: $MAM
-status: degraded
+status: up
 code: 200
-responseTime: 2390
-lastUpdated: 2024-03-12T15:23:35.975Z
+responseTime: 517
+lastUpdated: 2024-03-12T16:15:17.005Z
 startTime: 2023-12-06T19:48:14.714Z
 generator: Upptime <https://github.com/upptime/upptime>
