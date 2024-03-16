@@ -1,7 +1,7 @@
 url: $AR
-status: up
-code: 200
-responseTime: 605
-lastUpdated: 2024-03-14T23:17:05.538Z
+status: down
+code: 521
+responseTime: 221
+lastUpdated: 2024-03-16T21:15:07.052Z
 startTime: 2023-12-06T19:12:54.273Z
 generator: Upptime <https://github.com/upptime/upptime>
