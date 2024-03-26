@@ -1,7 +1,7 @@
 url: $NEB
-status: degraded
+status: up
 code: 200
-responseTime: 17580
-lastUpdated: 2024-03-26T19:40:57.492Z
+responseTime: 251
+lastUpdated: 2024-03-26T19:50:05.617Z
 startTime: 2023-12-06T19:51:19.682Z
 generator: Upptime <https://github.com/upptime/upptime>
