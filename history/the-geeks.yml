@@ -1,7 +1,7 @@
 url: $TGC
-status: up
+status: degraded
 code: 200
-responseTime: 420
-lastUpdated: 2024-03-25T23:19:27.044Z
+responseTime: 2273
+lastUpdated: 2024-03-26T15:18:07.900Z
 startTime: 2023-12-06T19:42:00.887Z
 generator: Upptime <https://github.com/upptime/upptime>
