@@ -4,15 +4,15 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.00%",
-    "uptimeDay": "64.47%",
-    "uptimeWeek": "64.56%",
-    "uptimeMonth": "91.84%",
+    "uptimeDay": "64.57%",
+    "uptimeWeek": "64.71%",
+    "uptimeMonth": "91.88%",
     "uptimeYear": "98.00%",
     "time": 884,
     "timeDay": 877,
-    "timeWeek": 848,
+    "timeWeek": 849,
     "timeMonth": 859,
     "timeYear": 884,
     "dailyMinutesDown": {
@@ -22,8 +22,7 @@
       "2024-04-05": 537,
       "2024-04-04": 708,
       "2024-04-03": 582,
-      "2024-04-02": 641,
-      "2024-04-01": 16
+      "2024-04-02": 641
     }
   },
   {
@@ -260,7 +259,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-04-08": 813,
+      "2024-04-08": 823,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -457,7 +456,7 @@
     "uptimeMonth": "93.98%",
     "uptimeYear": "98.52%",
     "time": 3259,
-    "timeDay": 4601,
+    "timeDay": 4762,
     "timeWeek": 2436,
     "timeMonth": 2597,
     "timeYear": 3259,
@@ -667,7 +666,7 @@
     "timeMonth": 363,
     "timeYear": 406,
     "dailyMinutesDown": {
-      "2024-04-08": 813,
+      "2024-04-08": 823,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -811,7 +810,7 @@
     "timeMonth": 985,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2024-04-08": 813,
+      "2024-04-08": 823,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -1109,7 +1108,7 @@
     "uptime": "85.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "85.87%",
+    "uptimeMonth": "85.89%",
     "uptimeYear": "85.15%",
     "time": 1677,
     "timeDay": 137,
@@ -1249,7 +1248,7 @@
     "timeMonth": 1712,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-04-08": 813,
+      "2024-04-08": 823,
       "2024-04-07": 1440,
       "2024-04-06": 1440,
       "2024-04-05": 1440,
@@ -1388,7 +1387,7 @@
     "uptimeMonth": "90.87%",
     "uptimeYear": "97.75%",
     "time": 525,
-    "timeDay": 540,
+    "timeDay": 545,
     "timeWeek": 533,
     "timeMonth": 536,
     "timeYear": 525,
