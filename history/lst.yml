@@ -1,7 +1,7 @@
 url: $LST
-status: degraded
+status: up
 code: 200
-responseTime: 2773
-lastUpdated: 2024-04-09T21:10:35.994Z
+responseTime: 832
+lastUpdated: 2024-04-09T21:21:56.072Z
 startTime: 2023-12-06T19:48:12.596Z
 generator: Upptime <https://github.com/upptime/upptime>
