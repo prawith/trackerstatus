@@ -4,14 +4,14 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.22%",
-    "uptimeDay": "59.27%",
-    "uptimeWeek": "67.82%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "98.22%",
+    "status": "down",
+    "uptime": "98.23%",
+    "uptimeDay": "59.92%",
+    "uptimeWeek": "68.00%",
+    "uptimeMonth": "92.64%",
+    "uptimeYear": "98.23%",
     "time": 883,
-    "timeDay": 847,
+    "timeDay": 846,
     "timeWeek": 830,
     "timeMonth": 846,
     "timeYear": 883,
@@ -23,7 +23,7 @@
       "2024-04-07": 485,
       "2024-04-06": 379,
       "2024-04-05": 537,
-      "2024-04-04": 138
+      "2024-04-04": 119
     }
   },
   {
@@ -207,17 +207,17 @@
     "slug": "baka-bt",
     "status": "up",
     "uptime": "98.48%",
-    "uptimeDay": "85.61%",
-    "uptimeWeek": "90.84%",
-    "uptimeMonth": "93.67%",
+    "uptimeDay": "86.93%",
+    "uptimeWeek": "91.00%",
+    "uptimeMonth": "93.66%",
     "uptimeYear": "98.48%",
     "time": 3367,
     "timeDay": 2507,
-    "timeWeek": 3428,
+    "timeWeek": 3391,
     "timeMonth": 3786,
     "timeYear": 3367,
     "dailyMinutesDown": {
-      "2024-04-11": 36,
+      "2024-04-11": 27,
       "2024-04-10": 326,
       "2024-04-09": 20,
       "2024-04-08": 61,
@@ -241,7 +241,7 @@
       "2024-03-21": 16,
       "2024-03-20": 105,
       "2024-03-19": 40,
-      "2024-03-18": 38
+      "2024-03-18": 54
     }
   },
   {
@@ -261,7 +261,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-04-11": 586,
+      "2024-04-11": 596,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -672,7 +672,7 @@
     "timeMonth": 528,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2024-04-11": 586,
+      "2024-04-11": 596,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -819,7 +819,7 @@
     "timeMonth": 1069,
     "timeYear": 1233,
     "dailyMinutesDown": {
-      "2024-04-11": 586,
+      "2024-04-11": 596,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -1122,7 +1122,7 @@
     "uptime": "85.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "95.21%",
+    "uptimeMonth": "95.23%",
     "uptimeYear": "85.48%",
     "time": 1677,
     "timeDay": 0,
@@ -1263,7 +1263,7 @@
     "timeMonth": 1767,
     "timeYear": 1173,
     "dailyMinutesDown": {
-      "2024-04-11": 586,
+      "2024-04-11": 596,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
       "2024-04-08": 1440,
@@ -1405,7 +1405,7 @@
     "uptimeMonth": "92.04%",
     "uptimeYear": "98.08%",
     "time": 526,
-    "timeDay": 565,
+    "timeDay": 564,
     "timeWeek": 544,
     "timeMonth": 537,
     "timeYear": 526,
