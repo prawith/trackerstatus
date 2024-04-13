@@ -1,7 +1,7 @@
 url: $NEB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-13T00:43:32.268Z
+status: up
+code: 200
+responseTime: 611
+lastUpdated: 2024-04-13T01:24:31.316Z
 startTime: 2023-12-06T19:51:19.682Z
 generator: Upptime <https://github.com/upptime/upptime>
