@@ -1,7 +1,7 @@
 url: $BBT
-status: up
+status: degraded
 code: 200
-responseTime: 543
-lastUpdated: 2024-04-20T23:16:05.886Z
+responseTime: 2631
+lastUpdated: 2024-04-20T23:25:51.531Z
 startTime: 2023-12-06T19:30:24.298Z
 generator: Upptime <https://github.com/upptime/upptime>
