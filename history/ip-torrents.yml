@@ -1,7 +1,7 @@
 url: $IPT
-status: down
+status: degraded
 code: 403
-responseTime: 303
-lastUpdated: 2024-04-22T11:15:45.732Z
+responseTime: 1505
+lastUpdated: 2024-04-22T15:30:11.936Z
 startTime: 2023-12-06T19:48:09.027Z
 generator: Upptime <https://github.com/upptime/upptime>
