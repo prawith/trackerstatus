@@ -1,7 +1,7 @@
 url: $BLU
-status: down
-code: 503
-responseTime: 765
-lastUpdated: 2024-04-25T16:46:02.048Z
+status: up
+code: 200
+responseTime: 147
+lastUpdated: 2024-04-25T17:38:19.435Z
 startTime: 2023-12-06T19:30:26.683Z
 generator: Upptime <https://github.com/upptime/upptime>
