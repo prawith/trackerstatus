@@ -1,7 +1,7 @@
 url: $TSP
-status: degraded
+status: up
 code: 200
-responseTime: 2037
-lastUpdated: 2024-04-25T06:23:09.269Z
+responseTime: 524
+lastUpdated: 2024-04-25T06:36:24.857Z
 startTime: 2023-12-06T23:14:51.667Z
 generator: Upptime <https://github.com/upptime/upptime>
