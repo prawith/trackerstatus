@@ -1,7 +1,7 @@
 url: $REF
-status: degraded
+status: up
 code: 200
-responseTime: 1697
-lastUpdated: 2024-04-29T19:15:20.385Z
+responseTime: 321
+lastUpdated: 2024-04-29T19:25:36.504Z
 startTime: 2023-12-06T23:14:46.528Z
 generator: Upptime <https://github.com/upptime/upptime>
