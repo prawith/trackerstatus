@@ -1,7 +1,7 @@
 url: $AC
-status: up
+status: degraded
 code: 200
-responseTime: 573
-lastUpdated: 2024-04-28T23:17:04.706Z
+responseTime: 2926
+lastUpdated: 2024-04-29T19:14:51.650Z
 startTime: 2023-12-06T19:30:21.750Z
 generator: Upptime <https://github.com/upptime/upptime>
