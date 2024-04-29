@@ -1,7 +1,7 @@
 url: $SPD
-status: up
+status: degraded
 code: 200
-responseTime: 590
-lastUpdated: 2024-04-28T23:17:29.664Z
+responseTime: 1784
+lastUpdated: 2024-04-29T19:15:27.692Z
 startTime: 2023-12-06T23:14:48.070Z
 generator: Upptime <https://github.com/upptime/upptime>
