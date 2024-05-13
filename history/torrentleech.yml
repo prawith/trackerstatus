@@ -1,7 +1,7 @@
 url: $TL
-status: up
+status: degraded
 code: 200
-responseTime: 794
-lastUpdated: 2024-05-12T05:20:10.401Z
+responseTime: 5818
+lastUpdated: 2024-05-13T11:00:21.385Z
 startTime: 2023-12-06T23:14:55.182Z
 generator: Upptime <https://github.com/upptime/upptime>
