@@ -4,15 +4,15 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.41%",
-    "uptimeDay": "58.22%",
-    "uptimeWeek": "63.62%",
-    "uptimeMonth": "91.63%",
-    "uptimeYear": "98.41%",
+    "status": "down",
+    "uptime": "98.43%",
+    "uptimeDay": "58.28%",
+    "uptimeWeek": "64.21%",
+    "uptimeMonth": "91.77%",
+    "uptimeYear": "98.43%",
     "time": 878,
-    "timeDay": 769,
-    "timeWeek": 803,
+    "timeDay": 767,
+    "timeWeek": 802,
     "timeMonth": 859,
     "timeYear": 878,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2024-05-11": 578,
       "2024-05-10": 661,
       "2024-05-09": 493,
-      "2024-05-08": 297
+      "2024-05-08": 237
     }
   },
   {
@@ -222,18 +222,18 @@
     "icon": "$BBT_ICON",
     "slug": "baka-bt",
     "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "96.02%",
-    "uptimeWeek": "93.32%",
-    "uptimeMonth": "91.55%",
-    "uptimeYear": "98.39%",
+    "uptime": "98.38%",
+    "uptimeDay": "96.78%",
+    "uptimeWeek": "93.43%",
+    "uptimeMonth": "91.48%",
+    "uptimeYear": "98.38%",
     "time": 3636,
     "timeDay": 3759,
     "timeWeek": 3315,
     "timeMonth": 4152,
     "timeYear": 3636,
     "dailyMinutesDown": {
-      "2024-05-14": 58,
+      "2024-05-14": 47,
       "2024-05-13": 62,
       "2024-05-12": 109,
       "2024-05-11": 124,
@@ -253,7 +253,7 @@
       "2024-04-27": 268,
       "2024-04-26": 972,
       "2024-04-25": 694,
-      "2024-04-24": 299
+      "2024-04-24": 340
     }
   },
   {
@@ -273,7 +273,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-05-14": 816,
+      "2024-05-14": 826,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -728,7 +728,7 @@
     "uptime": "5.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "30.30%",
+    "uptimeMonth": "30.32%",
     "uptimeYear": "5.52%",
     "time": 776,
     "timeDay": 0,
@@ -908,7 +908,7 @@
     "timeMonth": 1242,
     "timeYear": 1227,
     "dailyMinutesDown": {
-      "2024-05-14": 817,
+      "2024-05-14": 826,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
@@ -1406,7 +1406,7 @@
     "timeMonth": 763,
     "timeYear": 1117,
     "dailyMinutesDown": {
-      "2024-05-14": 817,
+      "2024-05-14": 826,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
