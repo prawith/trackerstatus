@@ -4,15 +4,15 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.50%",
-    "uptimeDay": "49.87%",
-    "uptimeWeek": "64.07%",
-    "uptimeMonth": "91.73%",
-    "uptimeYear": "98.50%",
+    "status": "down",
+    "uptime": "98.51%",
+    "uptimeDay": "50.04%",
+    "uptimeWeek": "64.28%",
+    "uptimeMonth": "91.78%",
+    "uptimeYear": "98.51%",
     "time": 874,
-    "timeDay": 786,
-    "timeWeek": 786,
+    "timeDay": 779,
+    "timeWeek": 785,
     "timeMonth": 842,
     "timeYear": 874,
     "dailyMinutesDown": {
@@ -22,7 +22,7 @@
       "2024-05-19": 641,
       "2024-05-18": 585,
       "2024-05-17": 583,
-      "2024-05-16": 36
+      "2024-05-16": 14
     }
   },
   {
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-05-22": 988,
+      "2024-05-22": 1001,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -925,7 +925,7 @@
     "timeMonth": 1540,
     "timeYear": 1282,
     "dailyMinutesDown": {
-      "2024-05-22": 988,
+      "2024-05-22": 1002,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -1434,7 +1434,7 @@
     "timeMonth": 710,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2024-05-22": 988,
+      "2024-05-22": 1002,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -1610,24 +1610,24 @@
     "url": "$TSP",
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
-    "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "36.43%",
-    "uptimeWeek": "60.69%",
-    "uptimeMonth": "90.95%",
-    "uptimeYear": "98.36%",
+    "status": "down",
+    "uptime": "98.37%",
+    "uptimeDay": "36.31%",
+    "uptimeWeek": "61.00%",
+    "uptimeMonth": "91.03%",
+    "uptimeYear": "98.37%",
     "time": 530,
-    "timeDay": 528,
-    "timeWeek": 541,
+    "timeDay": 527,
+    "timeWeek": 539,
     "timeMonth": 550,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-05-22": 628,
+      "2024-05-22": 630,
       "2024-05-21": 926,
       "2024-05-20": 660,
       "2024-05-19": 767,
       "2024-05-18": 569,
-      "2024-05-17": 414
+      "2024-05-17": 381
     }
   },
   {
