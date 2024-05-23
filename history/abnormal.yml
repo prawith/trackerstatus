@@ -1,7 +1,7 @@
 url: $ABN
-status: degraded
+status: down
 code: 404
-responseTime: 1308
-lastUpdated: 2024-05-23T12:36:46.346Z
+responseTime: 759
+lastUpdated: 2024-05-23T13:14:24.322Z
 startTime: 2023-12-06T19:10:11.075Z
 generator: Upptime <https://github.com/upptime/upptime>
