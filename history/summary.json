@@ -4,14 +4,14 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.44%",
-    "uptimeDay": "56.42%",
-    "uptimeWeek": "62.52%",
-    "uptimeMonth": "91.37%",
-    "uptimeYear": "98.44%",
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "56.39%",
+    "uptimeWeek": "63.34%",
+    "uptimeMonth": "91.56%",
+    "uptimeYear": "98.48%",
     "time": 874,
-    "timeDay": 886,
+    "timeDay": 880,
     "timeWeek": 804,
     "timeMonth": 842,
     "timeYear": 874,
@@ -22,7 +22,7 @@
       "2024-05-20": 574,
       "2024-05-19": 641,
       "2024-05-18": 585,
-      "2024-05-17": 280
+      "2024-05-17": 196
     }
   },
   {
@@ -230,7 +230,7 @@
     "time": 3619,
     "timeDay": 3248,
     "timeWeek": 3599,
-    "timeMonth": 3861,
+    "timeMonth": 3866,
     "timeYear": 3619,
     "dailyMinutesDown": {
       "2024-05-22": 41,
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-05-23": 703,
+      "2024-05-23": 712,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -927,7 +927,7 @@
     "timeMonth": 1569,
     "timeYear": 1280,
     "dailyMinutesDown": {
-      "2024-05-23": 703,
+      "2024-05-23": 712,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1439,7 +1439,7 @@
     "timeMonth": 705,
     "timeYear": 1104,
     "dailyMinutesDown": {
-      "2024-05-23": 704,
+      "2024-05-23": 713,
       "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
@@ -1617,23 +1617,23 @@
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
     "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "55.56%",
-    "uptimeWeek": "60.59%",
-    "uptimeMonth": "90.93%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.35%",
+    "uptimeDay": "56.56%",
+    "uptimeWeek": "60.18%",
+    "uptimeMonth": "90.84%",
+    "uptimeYear": "98.35%",
     "time": 530,
-    "timeDay": 553,
+    "timeDay": 545,
     "timeWeek": 530,
     "timeMonth": 550,
     "timeYear": 530,
     "dailyMinutesDown": {
-      "2024-05-23": 314,
+      "2024-05-23": 304,
       "2024-05-22": 791,
       "2024-05-21": 926,
       "2024-05-20": 660,
       "2024-05-19": 767,
-      "2024-05-18": 517
+      "2024-05-18": 569
     }
   },
   {
