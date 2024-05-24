@@ -1,7 +1,7 @@
 url: $HDA
-status: down
+status: degraded
 code: 403
-responseTime: 392
-lastUpdated: 2024-05-24T15:58:01.989Z
+responseTime: 2472
+lastUpdated: 2024-05-24T21:13:43.706Z
 startTime: 2023-12-06T19:48:05.954Z
 generator: Upptime <https://github.com/upptime/upptime>
