@@ -1,7 +1,7 @@
 url: $NEB
-status: degraded
+status: down
 code: 502
-responseTime: 1871
-lastUpdated: 2024-05-29T18:39:08.301Z
+responseTime: 584
+lastUpdated: 2024-05-29T19:14:43.440Z
 startTime: 2023-12-06T19:51:19.682Z
 generator: Upptime <https://github.com/upptime/upptime>
