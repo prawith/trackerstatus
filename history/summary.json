@@ -4,12 +4,12 @@
     "url": "$ABN",
     "icon": "$ABNICON",
     "slug": "abnormal",
-    "status": "up",
-    "uptime": "98.58%",
-    "uptimeDay": "47.41%",
-    "uptimeWeek": "62.39%",
-    "uptimeMonth": "91.35%",
-    "uptimeYear": "98.58%",
+    "status": "down",
+    "uptime": "98.59%",
+    "uptimeDay": "47.66%",
+    "uptimeWeek": "62.79%",
+    "uptimeMonth": "91.44%",
+    "uptimeYear": "98.59%",
     "time": 869,
     "timeDay": 780,
     "timeWeek": 815,
@@ -22,7 +22,7 @@
       "2024-06-06": 745,
       "2024-06-05": 550,
       "2024-06-04": 522,
-      "2024-06-03": 372
+      "2024-06-03": 331
     }
   },
   {
@@ -55,7 +55,7 @@
     "status": "up",
     "uptime": "82.40%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "65.78%",
+    "uptimeWeek": "65.88%",
     "uptimeMonth": "83.46%",
     "uptimeYear": "82.40%",
     "time": 1537,
@@ -290,7 +290,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-06-09": 204,
+      "2024-06-09": 215,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
@@ -974,12 +974,12 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 1344,
-    "timeDay": 2481,
+    "timeDay": 2476,
     "timeWeek": 1637,
     "timeMonth": 1872,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2024-06-09": 205,
+      "2024-06-09": 215,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
@@ -1529,7 +1529,7 @@
     "timeMonth": 1067,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2024-06-09": 205,
+      "2024-06-09": 215,
       "2024-06-08": 1440,
       "2024-06-07": 1440,
       "2024-06-06": 1440,
@@ -1731,7 +1731,7 @@
     "uptimeYear": "98.68%",
     "time": 529,
     "timeDay": 489,
-    "timeWeek": 516,
+    "timeWeek": 515,
     "timeMonth": 530,
     "timeYear": 529,
     "dailyMinutesDown": {
