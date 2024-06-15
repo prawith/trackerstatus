@@ -11,7 +11,7 @@
     "uptimeMonth": "91.20%",
     "uptimeYear": "98.61%",
     "time": 872,
-    "timeDay": 897,
+    "timeDay": 902,
     "timeWeek": 951,
     "timeMonth": 839,
     "timeYear": 872,
@@ -241,7 +241,7 @@
     "uptimeYear": "99.10%",
     "time": 3587,
     "timeDay": 4733,
-    "timeWeek": 3706,
+    "timeWeek": 3666,
     "timeMonth": 3406,
     "timeYear": 3587,
     "dailyMinutesDown": {
@@ -294,7 +294,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-06-15": 999,
+      "2024-06-15": 1009,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -570,19 +570,19 @@
     "url": "$CRT",
     "icon": "$CRT_ICON",
     "slug": "cathode-ray-tube",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.92%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "96.55%",
-    "uptimeMonth": "97.34%",
+    "uptimeDay": "93.23%",
+    "uptimeWeek": "96.53%",
+    "uptimeMonth": "97.33%",
     "uptimeYear": "98.92%",
     "time": 3125,
-    "timeDay": 2680,
-    "timeWeek": 2182,
-    "timeMonth": 2627,
+    "timeDay": 2688,
+    "timeWeek": 2190,
+    "timeMonth": 2628,
     "timeYear": 3125,
     "dailyMinutesDown": {
-      "2024-06-15": 78,
+      "2024-06-15": 80,
       "2024-06-14": 46,
       "2024-06-13": 125,
       "2024-06-12": 46,
@@ -623,8 +623,7 @@
       "2024-04-28": 101,
       "2024-04-27": 16,
       "2024-04-25": 33,
-      "2024-04-24": 19,
-      "2024-04-23": 16
+      "2024-04-24": 19
     }
   },
   {
@@ -995,7 +994,7 @@
     "timeMonth": 1772,
     "timeYear": 1340,
     "dailyMinutesDown": {
-      "2024-06-15": 999,
+      "2024-06-15": 1009,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
@@ -1556,7 +1555,7 @@
     "timeMonth": 1170,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2024-06-15": 999,
+      "2024-06-15": 1010,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
