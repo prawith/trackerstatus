@@ -11,8 +11,8 @@
     "uptimeMonth": "91.46%",
     "uptimeYear": "98.66%",
     "time": 872,
-    "timeDay": 816,
-    "timeWeek": 882,
+    "timeDay": 817,
+    "timeWeek": 883,
     "timeMonth": 845,
     "timeYear": 872,
     "dailyMinutesDown": {
@@ -235,18 +235,18 @@
     "icon": "$BBT_ICON",
     "slug": "baka-bt",
     "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "92.80%",
-    "uptimeWeek": "93.36%",
-    "uptimeMonth": "94.33%",
-    "uptimeYear": "99.11%",
+    "uptime": "99.10%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "93.45%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "99.10%",
     "time": 3586,
     "timeDay": 2979,
     "timeWeek": 3670,
     "timeMonth": 3465,
     "timeYear": 3586,
     "dailyMinutesDown": {
-      "2024-06-17": 86,
+      "2024-06-17": 77,
       "2024-06-16": 87,
       "2024-06-15": 45,
       "2024-06-14": 58,
@@ -275,7 +275,7 @@
       "2024-05-22": 41,
       "2024-05-21": 110,
       "2024-05-20": 36,
-      "2024-05-19": 68
+      "2024-05-19": 107
     }
   },
   {
@@ -295,7 +295,7 @@
     "timeMonth": 0,
     "timeYear": 623,
     "dailyMinutesDown": {
-      "2024-06-17": 692,
+      "2024-06-17": 702,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -997,7 +997,7 @@
     "timeMonth": 1782,
     "timeYear": 1341,
     "dailyMinutesDown": {
-      "2024-06-17": 693,
+      "2024-06-17": 702,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -1561,7 +1561,7 @@
     "timeMonth": 1233,
     "timeYear": 1128,
     "dailyMinutesDown": {
-      "2024-06-17": 693,
+      "2024-06-17": 702,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
@@ -1763,25 +1763,25 @@
     "url": "$TSP",
     "icon": "$TSP_ICON",
     "slug": "the-scene-place",
-    "status": "up",
-    "uptime": "98.64%",
-    "uptimeDay": "62.70%",
-    "uptimeWeek": "62.33%",
-    "uptimeMonth": "91.33%",
-    "uptimeYear": "98.64%",
+    "status": "down",
+    "uptime": "98.65%",
+    "uptimeDay": "63.22%",
+    "uptimeWeek": "62.68%",
+    "uptimeMonth": "91.41%",
+    "uptimeYear": "98.65%",
     "time": 529,
-    "timeDay": 494,
-    "timeWeek": 530,
+    "timeDay": 496,
+    "timeWeek": 531,
     "timeMonth": 523,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2024-06-17": 257,
+      "2024-06-17": 259,
       "2024-06-16": 661,
       "2024-06-15": 509,
       "2024-06-14": 714,
       "2024-06-13": 567,
       "2024-06-12": 566,
-      "2024-06-11": 522
+      "2024-06-11": 485
     }
   },
   {
