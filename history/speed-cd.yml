@@ -1,7 +1,7 @@
 url: $SCD
-status: degraded
+status: down
 code: 403
-responseTime: 1644
-lastUpdated: 2024-06-20T19:01:21.831Z
+responseTime: 524
+lastUpdated: 2024-06-20T19:27:40.073Z
 startTime: 2023-12-06T23:14:48.871Z
 generator: Upptime <https://github.com/upptime/upptime>
